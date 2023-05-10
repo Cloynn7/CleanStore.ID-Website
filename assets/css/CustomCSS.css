@@ -1,0 +1,12 @@
+#dc-widget {
+  border-radius: 25px;
+  max-width: 500px;
+  max-height: 500px;
+  min-width: 300px;
+  min-height: 350px;
+}
+
+#list-item {
+  display: flex;
+}
+
